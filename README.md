@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
+<!---<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,7 +11,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div>--->
 <div id="viewscount" align="center">
  <img src="https://komarev.com/ghpvc/?username=Deluxeria&style=flat-square&color=blue" alt=""/>
 </div>
@@ -34,7 +34,7 @@ I am a learning Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I am trying to learn development
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: ![Discord Badge](https://img.shields.io/badge/Discord-Deluxeria%230001-blue?style=flat&logo=Discord&logoColor=white)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
